@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "smiling-office-365211",
+  "private_key_id": "6e237e3adbc9a99ae4e0f77793ea9b968755f6e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDOveA/0gnPXxk2\nuAjdwPQjU++dtTt6Qa/twZQbU62mkLI7dkZyYSPHenj+QXgImR0Al9yU4GW9Wmef\nnAlthH3cAqYwP9zefRdObyRRyqqagUnJRCk0pY5FtE1ucKHM6lCm9T5tKaokW+p8\nrb4xt84mNedK+2At01stq0VdZB84Yf9kiVBBXgpPlkPBHzFfr3gk+ynQslwPApCu\nzQPPz3kmSoSV/FxZGmd0zORX1WTtFvsjz6dDn9je6AxfBiH6YEuKqbhoFbCUe7X/\nEQpmRK5IRwkEaoPUKZolzm7RAzsGlcgym8nqxAASqeKcfETnSkCsT3m7M431Rxpx\n08Wy/fMFAgMBAAECggEABvJovXbsfyGGF97G5tNWgMoPvwAO1RStpDLBLB/mMbbN\nU7ktidILdpGozNEHXFvva7cuoXle1yYusuAhOE206vZ902457jyhfVsNCzXhALBq\nec8GsW8EtlaQ1C6zCSSF0ZkOYB2qdW6klPbuRqkTThkOl2hApZmOB/KoMd4CPI3i\n+Cim4ZsWOq4EUzFHQOB2HjasKlteDZytTCWGa1j8OEu63qmBtrnx1s9lLHrq/gof\njrhDowrw1Em69ar0kWT99DN5EECxQsqF5Yyn9DXgcylAgwl6zGN/Hm/ceZlYgLNE\n/rLJyItks/alO/nFkOlh2wpmXoWNw2qHTUcQ7R+LGwKBgQDvT1lsxxsUncvrWwRD\nYQbcUVl+eGN8vmG4drKZecSJFYN63YKr/Tl2GLT+7Z19B6Q/QftHSHoOuoEvWO8G\nNy5fCiBI5b56z/Bi00wX91VnMDgXCsWJiBYp5/JY0MoQzXy3bHSbrzcvWakYKH6a\nDPjjJ9Uoesxui/amMsfVjI57TwKBgQDdKQ0z8z3sDbcCNupYA+xJIkJ5rwum6slj\nKEtoH2+j8qLTlJaNcAyCXsxHJ/wFd544HNPPcpqdkqNIvY+I10yU9qKXlsBbFeyk\ncKkCEKM2d0geo63e27nAWFP84FVwvf9GNrAkwiViCAgIjget6X6OHlyqOuPTLMDX\nd9SPd4rHawKBgQDH+rkx65i3u72iqeaAH97J0blFtHj+z2F98sMA+f7Ax5ed3unJ\nq8yO4cqulgZbaz1YF11SjkBhen1mAZ2MxiQcC6w6/rIUkxvAme4mwOs/Vc4pgzjb\n2zsaPdgJXEDflbg414sCZoNpMDXcGErjlR+PQ8QfFa8sWg39iMXxsImIhQKBgHKJ\ncSoHfnlC/RWrhSBCH9wcXxsP+dPfYp703mC1bycUYRl8qZ/keMYH/HmZjp7yPUHI\nRDX6n3Kd3+yrJ6vx/NplBP3G+CX0K9NZ+V11amGp0vLzR/fUCdZAqHadZAJ4k700\nU3MmDSBBEpADppx+AanutYT/7L+QPOsaRz5p5bizAoGAXkdK+SnbKg31HjvH4qvJ\nK5eWNWWUMVyHRhOz/m4LvJiheYbWuiSTidP5LBE9c/hh0A9XNnOZJPuPyypJ9q9c\n0D6msdSp3lPndm+NZp7AnlD85yuwN/Ct6z4kgrEiS+v9jqiLW9xnh8aDLIu9UGud\nh9Qo1yUZ80loZ8W0YMuLNps=\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraformvm@smiling-office-365211.iam.gserviceaccount.com",
+  "client_id": "117157942431459082699",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraformvm%40smiling-office-365211.iam.gserviceaccount.com"
+}
